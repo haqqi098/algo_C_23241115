@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-02T04:12:53.234Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="8IeJweVgj_F4G5tg8Vvj" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-02T04:16:31.691Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="IM76KhvTvDj0uAegA81M" version="22.0.8" type="github" pages="2">
   <diagram name="Page-1" id="K6n3lDhp87YlzvS6EINz">
     <mxGraphModel dx="857" dy="349" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -50,6 +50,48 @@
         </mxCell>
         <mxCell id="pWe8uqLpT7956_WyL392-6" value="bil = bil genap" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="231" width="190" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="vS4-UnUp1oTrWuoierMz" name="Page-2">
+    <mxGraphModel dx="857" dy="349" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="1KGfNLxNnVigeUTRr8GT-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1KGfNLxNnVigeUTRr8GT-2" target="1KGfNLxNnVigeUTRr8GT-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1KGfNLxNnVigeUTRr8GT-2" value="star" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="410" y="10" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1KGfNLxNnVigeUTRr8GT-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1KGfNLxNnVigeUTRr8GT-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1KGfNLxNnVigeUTRr8GT-4" value="Lo&lt;br&gt;phr = 3,14&lt;br&gt;r" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1KGfNLxNnVigeUTRr8GT-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="3Q8-gl4EkgIwH_QiVrvY-1" target="1KGfNLxNnVigeUTRr8GT-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="300" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1KGfNLxNnVigeUTRr8GT-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1KGfNLxNnVigeUTRr8GT-10" target="1KGfNLxNnVigeUTRr8GT-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1KGfNLxNnVigeUTRr8GT-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1KGfNLxNnVigeUTRr8GT-10" target="1KGfNLxNnVigeUTRr8GT-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1KGfNLxNnVigeUTRr8GT-10" value="Lo" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="341" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1KGfNLxNnVigeUTRr8GT-11" value="end" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="410" y="450" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3Q8-gl4EkgIwH_QiVrvY-1" value="Lo = phr x r x r" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="220" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
